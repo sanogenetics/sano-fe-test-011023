@@ -14,8 +14,6 @@ This project includes the following FE technologies which are the most common on
 - <a href="https://sass-lang.com/" target="_blank">Sass for styling</a>
 - <a href="https://www.typescriptlang.org/" target="_blank">Typescript</a>
 - <a href="https://www.cypress.io/" target="_blank">Cypress</a> (E2E testing)
-
-We also use Tailwind however this is not required for this test.
 - <a href="https://tailwindcss.com/" target="_blank">TailwindCSS</a>
 
 Please complete this test using Vue.JS, SCSS and Cypress. Do not add any third party libraries.
