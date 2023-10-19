@@ -22,7 +22,7 @@ Please complete this test using Vue.JS, SCSS and Cypress. Do not add any third p
 You should ideally aim to spend around 4 hours on the tasks but any extra polish or features you want to add will not go unnoticed.
 
 # Instructions:
-Step 1: Clone the repo into your own repo called `sano-fe-test` and make it <em>private</em> (❌ Please do not fork our repo).
+Step 1: Clone the repo into your own repo called `sano-fe-test` and make it <b>private</b> (❌ Please do not fork our repo).
 
 Step 2: Make a new branch where you will add your work. This will allow us to easily see the changes you make to the provided project.
 
