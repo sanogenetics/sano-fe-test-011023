@@ -1,0 +1,20 @@
+
+:root {
+  --vt-sano-light-pink: #fff5f3;
+  --vt-sano-pink: #F7D2D2;
+  --vt-sano-light-pink-dark: #ffdfd7;
+  --vt-sano-burgundy: #54223B;
+  --vt-sano-red-orange: #F75338;
+  --vt-sano-green: #4DB7A4;
+  --vt-sano-blue: #433EA5;
+
+  --vt-white: #ffffff;
+  --vt-black: #181818;
+}
+
+/* semantic color variables for this project */
+ :root {
+  --color-background: var(--vt-sano-light-pink);
+  --color-text: var(--vt-sano-burgundy);
+  --color-link: var(--vt-sano-red-orange);
+}
