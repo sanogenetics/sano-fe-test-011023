@@ -31,9 +31,9 @@ Step 3: Instructions to complete the task list are on the home page when you run
 Step 4: When you have completed the test, create a pull request for us to review.
 
 Step 5: Please create a Loom video to answer the following questions:
-  1-  If you were to add a study page which could only be accessed by the user if they were enrolled, how would you approach this?
-  2-  Where did you took a pause to make a decision? Why did you make that decision?
-  3-  If you struggled with any parts of the test, what were they?
+-  If you were to add a study page which could only be accessed by the user if they were enrolled, how would you approach this?
+-  Where did you took a pause to make a decision? Why did you make that decision?
+-  If you struggled with any parts of the test, what were they?
 
 # Submitting the test
 
