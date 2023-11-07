@@ -16,7 +16,7 @@ This project includes the following FE technologies which are the most common on
 - <a href="https://www.cypress.io/" target="_blank">Cypress</a> (E2E testing)
 - <a href="https://tailwindcss.com/" target="_blank">TailwindCSS</a>
 
-Please complete this test using Vue.JS, Typescript, TailwindCSS, SCSS and Cypress. Do not add any third party libraries.
+Please complete this test using Vue.JS (composition API), Typescript, TailwindCSS, SCSS and Cypress. Do not add any third party libraries.
 
 # Time to complete
 You should ideally aim to spend around 4 hours on the tasks but any extra polish or features you want to add will not go unnoticed.
